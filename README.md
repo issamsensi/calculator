@@ -5,6 +5,9 @@ Welcome to **Calculator** — a simple web-based arithmetic calculator.
 ## 🚀 Project Overview
 This project demonstrates working with inputs, display updates, and a basic expression evaluator. It is a great starter project for learning DOM interaction in JavaScript.
 
+## Demo
+[Demo](https://issamsensi.github.io/calculator/)
+
 ## 🌟 Features
 - Basic arithmetic operations: +, -, *, /
 - Clear and evaluate operations with the UI
